@@ -35,7 +35,7 @@
 <div align="center">
 
 ### 🦇 𝖙𝖊𝖈𝖍𝖓𝖔𝖑𝖔𝖌𝖎𝖊𝖘
-<br> <img src="https://skillicons.dev/icons?i=python,java,cpp,git,github,linux,vscode&theme=dark" /> </div>
+<br> <img src="https://skillicons.dev/icons?i=python,sqlite,java,cpp,git,github,linux,vscode&theme=dark" /> </div>
 
 <div align="center">
 
