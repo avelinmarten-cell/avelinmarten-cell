@@ -20,17 +20,15 @@
 
 ```text
 ╭──────────────────────────────────────────────────────╮
-│                                                      │
-│   👻  software development and management           │
-│       student                                        │
-│                                                      │
-│   🕯️  usually coding after midnight                 │
-│                                                      │
-│   🦇  fascinated by gothic stories & vampires       │
-│                                                      │
-│   🪦  somewhere between gothic aesthetics and       │
-│        programming                                   │
-│                                                      │
+   👻  software development and management           
+       student                                        
+                                                       
+   🕯️  usually coding after midnight                 
+                                                      
+   🦇  fascinated by gothic stories & vampires       
+                                                      
+   🕸️  somewhere between gothic aesthetics and
+        programming                                                                                          
 ╰──────────────────────────────────────────────────────╯
 ```
 
@@ -45,16 +43,14 @@
 </div>
 
 ```
-╭────────────────────────────────────────────╮
-│                                            │
-│  ☾  learning software development          │
-│                                            │
-│  †  building small things with code        │
-│                                            │
-│  🕯  exploring new technologies             │
-│                                            │
-│  ☠  occasionally fighting the compiler    │
-│                                            │
+╭────────────────────────────────────────────╮                                            
+  ☾  learning software development          
+                                            
+  †  building small things with code        
+                                            
+  🕯  exploring new technologies             
+                                           
+  ☠  occasionally fighting the compiler                                                
 ╰────────────────────────────────────────────╯
 ```
 
@@ -63,19 +59,6 @@
 
 <div align="center">
   
-### 🪞 𝖈𝖔𝖉𝖊 𝖆𝖋𝖙𝖊𝖗 𝖒𝖎𝖉𝖓𝖎𝖌𝖍𝖙
-
-        .        ✦              .
-             ☾
-    .                  🕯️
-      ╭──────╮
-    ✦        CODE       .
-      ╰──────╯
-      🦇               🦇
-
-     ────☾────
-       
-       still debugging...
 
 </div>
 <div align="center">
