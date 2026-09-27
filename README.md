@@ -1,12 +1,14 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:17151d,50:30243a,100:17151d&height=120&section=header&text=&fontSize=0" width="100%"/>
 <div align="center">
 
 # 🕷️ ANGELINA N
 ### `software developer · creator · digital witch`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:17151d,50:30243a,100:17151d&height=120&section=header&text=&fontSize=0" width="100%"/>
 🕯️　🦇　✦　🕸️　✦　🦇　🕯️
 
 *wandering through code after midnight*
+
+🕸️ ─────────────── ✦ ─────────────── 🕸️
 
 </div>
 
